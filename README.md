@@ -1,4 +1,4 @@
-# NLP_Lab
+# Natural Language Processing 
 NLP lab of 6th semester.
 
 
