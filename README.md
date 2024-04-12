@@ -18,5 +18,5 @@ NLP lab of 6th semester.
 |11|[11_ Transformers and Gradio.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/11_%20Transformers%20and%20Gradio.ipynb)|--|[]()|
 |12|[]()|--|[]()|
 |13|[13_Summarization using spaCy.ipynb](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/13_Summarization%20using%20spaCy.ipynb)|[summary.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/summary.txt)|[]()|
-|14|[14_Sentiment prediction (pov or neg)]()|--|[]()|
+|14|[14_Sentiment prediction (pov or neg)]()|[amazon_alexa.tsv](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/amazon_alexa%20.tsv)|[]()|
 ||**PART B**||
