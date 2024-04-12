@@ -16,4 +16,7 @@ NLP lab of 6th semester.
 |9|[09_Levenshtein distance.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/09_Levenshtein%20distance.ipynb)|--|[]()|
 |10|[10_TextVectorization.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/10_TextVectorization.ipynb)|[word2vec.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/word2vec.txt)|[]()|
 |11|[11_ Transformers and Gradio.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/11_%20Transformers%20and%20Gradio.ipynb)|--|[]()|
+|12|[]()|--|[]()|
+|13|[13_Summarization using spaCy.ipynb](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/13_Summarization%20using%20spaCy.ipynb)|--|[]()|
+|14|[]()|--|[]()|
 ||**PART B**||
