@@ -14,7 +14,7 @@ NLP lab of 6th semester.
 |7|[07_lem&sem.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/07_lem%26sem.ipynb)|[StemLem.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/Pgm7StemLem.txt)|[]()|
 |8|[08_POS Tagging.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/08_POS%20Tagging.ipynb)|--|[]()|
 |9|[09_Levenshtein distance.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/09_Levenshtein%20distance.ipynb)|--|[]()|
-|10|[10_TextVectorization.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/10_TextVectorization.ipynb)|[word2vec.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/word2vec.txt)|[]()|
+|10|[10_Bag of Words TextVectorization nad Word2Vec.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/10_TextVectorization.ipynb)|[word2vec.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/word2vec.txt)|[]()|
 |11|[11_ Transformers and Gradio.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/11_%20Transformers%20and%20Gradio.ipynb)|--|[]()|
 |12|[12_Sentiment Analysis using huggingface transformers library](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB12.ipynb)|--|[]()|
 |13|[13_Summarization using spaCy.ipynb](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/13_Summarization%20using%20spaCy.ipynb)|[summary.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/summary.txt)|[]()|
