@@ -16,7 +16,7 @@ NLP lab of 6th semester.
 |9|[09_Levenshtein distance.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/09_Levenshtein%20distance.ipynb)|--|[]()|
 |10|[10_TextVectorization.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/10_TextVectorization.ipynb)|[word2vec.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/word2vec.txt)|[]()|
 |11|[11_ Transformers and Gradio.ipynb](https://github.com/iamrajharshit/nlpS6/blob/main/Programs/11_%20Transformers%20and%20Gradio.ipynb)|--|[]()|
-|12|[Sentiment Analysis using huggingface transformers library](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB12.ipynb)|--|[]()|
+|12|[12_Sentiment Analysis using huggingface transformers library](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB12.ipynb)|--|[]()|
 |13|[13_Summarization using spaCy.ipynb](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/13_Summarization%20using%20spaCy.ipynb)|[summary.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/summary.txt)|[]()|
 |14|[14_Sentiment prediction (pov or neg)](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB14%20(1).ipynb)|[amazon_alexa.tsv](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/amazon_alexa%20.tsv)|[]()|
-|15|[Text to speech using in-built model pyttsx3](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB18.ipynb)|[Speech.wav](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/Speech.wav)|[]()|
+|15|[15_Text to speech using in-built model pyttsx3](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB18.ipynb)|[Speech.wav](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/Speech.wav)|[]()|
