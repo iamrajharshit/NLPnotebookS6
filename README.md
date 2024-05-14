@@ -19,5 +19,4 @@ NLP lab of 6th semester.
 |12|[Sentiment Analysis using huggingface transformers library](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB12.ipynb)|--|[]()|
 |13|[13_Summarization using spaCy.ipynb](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/13_Summarization%20using%20spaCy.ipynb)|[summary.txt](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/summary.txt)|[]()|
 |14|[14_Sentiment prediction (pov or neg)](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB14%20(1).ipynb)|[amazon_alexa.tsv](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/amazon_alexa%20.tsv)|[]()|
-|15|[Text to speech using in-built model pyttsx3](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB18.ipynb)|[]()|[]()|
-||**PART B**||
+|15|[Text to speech using in-built model pyttsx3](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Programs/NLP_LAB18.ipynb)|[Speech.wav](https://github.com/iamrajharshit/NLPnotebookS6/blob/main/Resources/Speech.wav)|[]()|
